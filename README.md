@@ -6,10 +6,10 @@ This repository contains a collection of datasets consolidated from Kaggle's pub
 ## Datasets Included
 The datasets included in this repository are as follows:
 
-- **Rice Leaf Disease Dataset**: Consists of images categorized into four types of rice diseases. [View Dataset]([https://www.kaggle.com/link-to-rice-dataset](https://www.kaggle.com/datasets/maimunulkjisan/rice-leaf-dataset-from-mendeley-data))
-- **Grapevine Leaf Image Dataset**: Contains images of different grapevine varieties, each representing specific leaf conditions. [View Dataset]([https://www.kaggle.com/link-to-grapevine-dataset](https://www.kaggle.com/datasets/muratkokludataset/grapevine-leaves-image-dataset))
-- **Bean Leaf Lesion Dataset**: Features images of bean leaves showing three different types of leaf lesions. [View Dataset]([https://www.kaggle.com/link-to-bean-dataset](https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification?select=train))
-- **Cassava Leaf Dataset**: Comprises images labeled into five classes, distinguishing between various disease states and healthy leaves. [View Dataset]([https://www.kaggle.com/link-to-cassava-dataset](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data))
+- **Rice Leaf Disease Dataset**: Consists of images categorized into four types of rice diseases. [View Dataset](https://www.kaggle.com/datasets/maimunulkjisan/rice-leaf-dataset-from-mendeley-data)
+- **Grapevine Leaf Image Dataset**: Contains images of different grapevine varieties, each representing specific leaf conditions. [View Dataset](https://www.kaggle.com/datasets/muratkokludataset/grapevine-leaves-image-dataset)
+- **Bean Leaf Lesion Dataset**: Features images of bean leaves showing three different types of leaf lesions. [View Dataset](https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification?select=train)
+- **Cassava Leaf Dataset**: Comprises images labeled into five classes, distinguishing between various disease states and healthy leaves. [View Dataset](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data)
 
 ## Purpose
 The purpose of gathering these datasets into a single repository is to provide easier access and a unified reference for researchers and developers working on agricultural applications of machine learning, specifically in the area of disease diagnosis in plants.
